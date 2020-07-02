@@ -10,7 +10,7 @@ permalink:        pretty
 title:            Herschel
 tagline:          'Component Pascal x64 compiler'
 description:      'Component Pascal x64 compiler for BlackBox Component Builder.'
-url:              https://github.com/adimetrius/Cp64
+url:              https://github.com/adimetrius/Herschel
 baseurl:          /
 
 author:
@@ -23,4 +23,4 @@ paginate:         5
 version:          2.1.0
 
 github:
-  repo:           https://github.com/adimetrius/Cp64
+  repo:           https://github.com/adimetrius/Herschel
