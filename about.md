@@ -6,6 +6,7 @@ title: About
 <p class="message">
   Make it as simple as possible, but not simpler.
 </p>
+![Herschel emblem](/path4158.png)
 
 Component Pascal x64 compiler for BlackBox Component Builder.
 
