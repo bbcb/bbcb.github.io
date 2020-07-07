@@ -22,9 +22,9 @@ So, the goal of this project is to produce a native x86\-64 compiler for the Bla
 
 **The project team:**
 
-Anton Dmitriev	adimetrius @ gmail\.com	ёѾ҃ѿѾ ѕѽѹ҃ҁѹѶѳ
+Anton Dmitriev	adimetrius @ gmail\.com	Антон Дмитриев
 
-Ivan Denisov	???	љѳѱѾ ѕѶѾѹ҂ѿѳ
+Ivan Denisov	???	Иван Денисов
 
 
 
