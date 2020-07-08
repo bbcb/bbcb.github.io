@@ -1,6 +1,6 @@
 ---
-layout: page
-title: About
+layout: ackbox/Hr/Code/Markdown.ocf
+title: 
 ---
 **Herschel Project**
 
@@ -22,9 +22,9 @@ So, the goal of this project is to produce a native x86\-64 compiler for the Bla
 
 **The project team:**
 
-Anton Dmitriev	adimetrius @ gmail\.com	Антон Дмитриев
+Anton Dmitrievadimetrius @ gmail\.comАнтон Дмитриев
 
-Ivan Denisov	???	Иван Денисов
+Ivan Denisov???Иван Денисов
 
 
 
@@ -42,7 +42,8 @@ William Herschel saw beyond his contemporaries; he did so in part because he was
 
 \* make your voice heard in comments to posts
 
-\* donate
+\* [donate](https::/money.yandex.ru/somepage.php)
 
 \* test
 
+HrMarkdown\.Test
