@@ -24,11 +24,19 @@ If you are willing to make **recurring donations**, please contact us directly\.
 
 ### Make your donations via:
 
+![](/transferwise.png)
+
 [TransferWise](https://transferwise.com/transferFlow#/enterpayment) \(preferred method if you're outside of Russia\)\. Make payments to adimetrius @ gmail \. com\. If you don't have a TransferWise account yet, check it out and feel free to use [this link to register one](https://transferwise.com/invite/u/antond59) \- you will get a discount on the 1st transfer, and we might get a small bonus as well\.
+
+![](/yandexmoney.png)
 
 [Yandex\.Money](https://money.yandex.ru/to/41001581613161)
 
+![](/vkpay.png)
+
 [VK pay](https://vk.com/vkpay#action=transfer-to-user&user_id=237579995)
+
+![](/VKpayQR.png "VK Pay QR code for adimetrius")
 
 
 
@@ -54,7 +62,11 @@ If you are willing to make **recurring donations**, please contact us directly\.
 
 ![](/яндексденьги.png)[Яндекс\.Деньги](https://money.yandex.ru/to/41001581613161)
 
+![](/transferwise.png)
+
 [TransferWise](https://transferwise.com/transferFlow#/enterpayment) \- если вы вне России, это предпочтительный способ получения денег для нас\. Сделайте перевод в адрес adimetrius @ gmail \. com\. Если у вас еще нет аккаунта в TransferWise, [воспользуйтесь вот этой ссылкой](https://transferwise.com/invite/u/antond59) чтобы создать: вы получите скидку, а мы, возможно, бонус\.
+
+![](/vkpay.png)
 
 [VK pay](https://vk.com/vkpay#action=transfer-to-user&user_id=237579995)
 
