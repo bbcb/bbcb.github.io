@@ -1,6 +1,6 @@
 ---
-layout: ackbox/Hr/Code/Markdown.ocf
-title: 
+layout: page
+title: About
 ---
 **Herschel Project**
 
