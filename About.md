@@ -7,6 +7,7 @@ title: About
 **Building a native x86\-64 compiler for BlackBox Component Builder**
 
 ****
+![Alt](/herschel.png)
 
 So, the goal of this project is to produce a native x86\-64 compiler for the BlackBox Component Builder\.
 
