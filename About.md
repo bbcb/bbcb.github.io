@@ -6,8 +6,7 @@ title: About
 
 **Building a native x86\-64 compiler for BlackBox Component Builder**
 
-****
-![Alt](/herschel.png)
+![](/herschel-sm-bl.png "Herschel's Telescope")
 
 So, the goal of this project is to produce a native x86\-64 compiler for the BlackBox Component Builder\.
 
@@ -25,7 +24,7 @@ So, the goal of this project is to produce a native x86\-64 compiler for the Bla
 
 Anton Dmitriev	adimetrius @ gmail\.com	Антон Дмитриев
 
-Ivan Denisov	iadenisov@oberon.org	Иван Денисов
+Ivan Denisov	???	Иван Денисов
 
 
 
@@ -47,4 +46,3 @@ William Herschel saw beyond his contemporaries; he did so in part because he was
 
 \* test
 
-HrMarkdown\.Test
