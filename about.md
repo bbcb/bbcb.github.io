@@ -1,8 +1,4 @@
----
-layout: page
-title: About
----
-**Herschel Project**
+# **Herschel Project**
 
 **Building a native x86\-64 compiler for BlackBox Component Builder**
 
@@ -12,7 +8,7 @@ So, the goal of this project is to produce a native x86\-64 compiler for the Bla
 
 
 
-**Our main values:**
+## **Our main values:**
 
 \* **identity**: the Component Pascal language is awesome; it has to be preserved "AS IS", without any changes
 
@@ -20,7 +16,7 @@ So, the goal of this project is to produce a native x86\-64 compiler for the Bla
 
 
 
-**The project team:**
+## **The project team:**
 
 Anton Dmitrievadimetrius @ gmail\.comАнтон Дмитриев
 
@@ -28,7 +24,7 @@ Ivan Denisov???Иван Денисов
 
 
 
-**Why Herschel?**
+### **Why Herschel?**
 
 William Herschel is the British astronomer \(as well as musician\) who discovered **Oberon**, a satellite of **Uranus**\. The space probe **Voyager** 2 was passing Oberon in January of 1986 and made several photographs of it\. Around that time, Nicklaus **Wirth** was developing the programming language and operating system; he was impressed with the engineering success behind Voyager 2 and called the language and the system afther the satellite\. In 1996, a successor of Oberon was called **Component** **Pascal**\. It is the language we love, use and aim to translate\.
 
@@ -36,7 +32,7 @@ William Herschel saw beyond his contemporaries; he did so in part because he was
 
 
 
-**Your participation:**
+### **Your participation:**
 
 \* follow us here or at [VK](http://vk.com/HerschelCompiler) \(if you want notifications\)
 
