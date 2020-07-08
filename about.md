@@ -38,11 +38,11 @@ William Herschel saw beyond his contemporaries; he did so in part because he was
 
 **Your participation:**
 
-\* follow us here or at vk\.com/HerschelCompiler \(if you want notifications\)
+\* follow us here or at [VK](http://vk.com/HerschelCompiler) \(if you want notifications\)
 
 \* make your voice heard in comments to posts
 
-\* [donate](https::/money.yandex.ru/somepage.php)
+\* [donate](https://money.yandex.ru/somepage.php)
 
 \* test
 
