@@ -1,3 +1,7 @@
+---
+layout: page
+title: About
+---
 # **Herschel Project**
 
 **Building a native x86\-64 compiler for BlackBox Component Builder**
