@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Дать денег
+p.title: Дать денег
 ---
 # Поддержать деньгами
 
@@ -12,17 +12,17 @@ title: Дать денег
 
 ### Деньги сюда:
 
-![](/яндексденьги.png)[Яндекс\.Деньги](https://money.yandex.ru/to/41001581613161)
+![](/img/яндексденьги.png)[Яндекс\.Деньги](https://money.yandex.ru/to/41001581613161)
 
-![](/transferwise.png)
+![](/img/transferwise.png)
 
 [TransferWise](https://transferwise.com/transferFlow#/enterpayment) \- если вы вне России, это предпочтительный способ получения денег для нас\. Сделайте перевод в адрес adimetrius @ gmail \. com\. Если у вас еще нет аккаунта в TransferWise, [воспользуйтесь вот этой ссылкой](https://transferwise.com/invite/u/antond59) чтобы создать: вы получите скидку, а мы, возможно, бонус\.
 
-![](/vkpay.png)
+![](/img/vkpay.png)
 
 [VK pay](https://vk.com/vkpay#action=transfer-to-user&user_id=237579995)
 
-![](/VKpayQR.png "VK Pay QR code for adimetrius")
+![](/img/VKpayQR.png "VK Pay QR code for adimetrius")
 
 Целевая желаемая сумма \- $1000/мес, а бета\-результатов мы ожидаем в конце осени 2020\. Сейчас у нас есть обещание ежемесячной поддержки 250 евро/мес, и еще два возможных обещания в ближайшее время\.
 

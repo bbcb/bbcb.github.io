@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Эмблема / The Emblem
+p.title: Эмблема / The Emblem
 ---
 # **The Emblem / Эмблема**
 
@@ -8,5 +8,5 @@ title: Эмблема / The Emblem
 
 The emblem of our project is a schematic reminder of William Herschel's telescope:
 
-![William Herschel's Telescope](/telescope.png "William Herschel's Telescope")
+![William Herschel's Telescope](/img/telescope.png "William Herschel's Telescope")
 
