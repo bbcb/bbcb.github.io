@@ -1,6 +1,6 @@
 ---
 layout: page
-p.title: About
+title: About
 ---
 # **Herschel Project**
 

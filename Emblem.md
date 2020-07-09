@@ -1,6 +1,6 @@
 ---
 layout: page
-p.title: Эмблема / The Emblem
+title: Эмблема / The Emblem
 ---
 # **The Emblem / Эмблема**
 

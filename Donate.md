@@ -1,6 +1,6 @@
 ---
 layout: page
-p.title: Donate
+title: Donate
 ---
 # Donate
 
