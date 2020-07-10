@@ -1,9 +1,7 @@
 ---
 layout: page
-title: Эмблема / The Emblem
+title: The Emblem / Эмблема
 ---
-# **The Emblem / Эмблема**
-
 
 
 The emblem of our project is a schematic reminder of William Herschel's telescope:

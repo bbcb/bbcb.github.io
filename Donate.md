@@ -2,8 +2,6 @@
 layout: page
 title: Donate
 ---
-# Donate
-
 
 
 At the time, Adimetrius is the lead, senior, mid and jun in this project\. He works on it day, and sometimes night, as a volunteer, at his own expense\.
