@@ -24,7 +24,7 @@ So, the goal of this project is to produce a native x86\-64 compiler for the Bla
 
 \* make your voice heard in comments to posts
 
-\* [donate](https://money.yandex.ru/somepage.php)
+\* [donate](/Donate/)
 
 \* test
 
