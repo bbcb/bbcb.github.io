@@ -44,7 +44,7 @@ William Herschel is the British astronomer \(as well as musician\) who discovere
 
 William Herschel saw beyond his contemporaries; he did so in part because he was using his own hand\-made tools \- telescopes with his own hand\-made mirrors\. They say he would sometimes work on polishing a mirror for as long as 16 hours\. So, as you can see, tools matter \- that's why we use Component Pascal\.
 
-### **The Emblem / Эмблема**
+### **The Emblem**
 
 The emblem of our project is a schematic reminder of William Herschel's telescope:
 
