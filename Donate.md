@@ -28,6 +28,8 @@ At the time, Adimetrius is the lead, senior, mid and jun in this project\. He wo
 
 The target desirable amount is $1000/mo, with expected beta\-results late fall of 2020\. We currently have one commitment of 250 euro/month, and two more possible monthly commitments\.
 
+In August, we have received a donation of €200, but the donor has not indicated whether his name may be disclosed \- we send thanks to him anyway\.
+
 
 
 We will keep you posted on the progress of the project, as well as on the financial progress\.
