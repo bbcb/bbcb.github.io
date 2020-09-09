@@ -30,6 +30,8 @@ The target desirable amount is $1000/mo, with expected beta\-results late fall o
 
 In August, we have received a donation of €200, but the donor has not indicated whether his name may be disclosed \- we send thanks to him anyway\.
 
+In September, we have received another €100 one\-time donation; gratefull to the donor\.
+
 
 
 We will keep you posted on the progress of the project, as well as on the financial progress\.
