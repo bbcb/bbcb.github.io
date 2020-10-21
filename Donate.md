@@ -6,7 +6,7 @@ title: Donate
 
 At the time, Adimetrius is the lead, senior, mid and jun in this project\. He works on it day, and sometimes night, as a volunteer, full of enthusiasm\.
 
-Currently, we have 3 donating supporters: Mathieu Westerweele from Mobatec, NL, an anonymous supporter and Ivan Denisov from Kraysnoyarsk, RU\.
+Currently, we have 4 donating supporters: Mathieu Westerweele from Mobatec, NL, two undisclosed supporters and Ivan Denisov from Kraysnoyarsk, RU\.
 
 
 
@@ -16,7 +16,7 @@ Currently, we have 3 donating supporters: Mathieu Westerweele from Mobatec, NL, 
 
 ![](/img/transferwise.png)
 
-[TransferWise](https://transferwise.com/transferFlow#/enterpayment) \(preferred method if you're outside of Russia\)\. Make payments to adimetrius @ gmail \. com\. If you don't have a TransferWise account yet, check it out and feel free to use [this link to register one](https://transferwise.com/invite/u/antond59) \- you will get a discount on the 1st transfer, and we might get a small bonus as well\.
+[TransferWise](https://transferwise.com/transferFlow#/enterpayment) \(preferred method if you're outside of Russia\)\. Make payments to adimetrius @ gmail \. com\. If you don't have a TransferWise account yet, check it out and feel free to use [this link to register one](https://transferwise.com/invite/u/antond59) \- you will get a discount on the 1st transfer, and we might get a small bonus as well\. If your currency is €, set up a transfer into € as well; if your currency is different, set up a transfer with coversion into RUR \(russian roubles\)\.
 
 ![](/img/yandexmoney.png)
 
@@ -32,7 +32,7 @@ The target desirable amount is $1000/mo, with expected beta\-results late fall o
 
 In August, we have received a donation of €200, but the donor has not indicated whether his name may be disclosed \- we send thanks to him anyway\.
 
-In September, we have received another €100 one\-time donation\.
+In September and October each, we have received a €100 one\-time donation\.
 
 
 
