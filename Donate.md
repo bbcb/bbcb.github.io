@@ -16,8 +16,6 @@ Also, Mobatec's 6\-month committment has been fulfilled, so we are looking and a
 
 At the time, Adimetrius is the lead, senior, mid and jun in this project\. He works on it day, and sometimes night, as a volunteer, full of enthusiasm\.
 
-Currently, we have 6 donating supporters: Mathieu Westerweele from Mobatec, NL, two undisclosed supporters and Ivan Denisov from Kraysnoyarsk, RU\.
-
 
 
 **Please participate in the creation of CP 64\-bit compiler with your donations\.** 
@@ -52,3 +50,8 @@ We will keep you posted on the progress of the project, as well as on the financ
 
 If you are willing to make **recurring donations**, please contact us directly\.
 
+
+
+List of people/organizations who have donated to the project:
+
+Mathieu Westerweele from Mobatec, NL, Ivan Denisov from Kraysnoyarsk, RU, Christian Hörmann, Comdiv; and also two undisclosed donors\.
