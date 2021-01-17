@@ -4,9 +4,19 @@ title: Donate
 ---
 
 
+**New donations in the last month:**
+
+In December, we have received €100 from Christian Hörmann, ₽5000 from Ivan Denisov, and ₽2222 from Comdiv on Jan 1\. Deeply grateful to our donors\!
+
+Also, Mobatec's 6\-month committment has been fulfilled, so we are looking and asking for more donations, potentially recurring\. 
+
+
+
+
+
 At the time, Adimetrius is the lead, senior, mid and jun in this project\. He works on it day, and sometimes night, as a volunteer, full of enthusiasm\.
 
-Currently, we have 4 donating supporters: Mathieu Westerweele from Mobatec, NL, two undisclosed supporters and Ivan Denisov from Kraysnoyarsk, RU\.
+Currently, we have 6 donating supporters: Mathieu Westerweele from Mobatec, NL, two undisclosed supporters and Ivan Denisov from Kraysnoyarsk, RU\.
 
 
 
