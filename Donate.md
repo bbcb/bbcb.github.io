@@ -4,13 +4,9 @@ title: Donate
 ---
 
 
-**New donations in the last month:**
+**New donations in the last months:**
 
-In December, we have received €100 from Christian Hörmann, ₽5000 from Ivan Denisov, and ₽2222 from Comdiv on Jan 1\. Deeply grateful to our donors\!
-
-Also, Mobatec's 6\-month committment has been fulfilled, so we are looking and asking for more donations, potentially recurring\. 
-
-
+We have received €200 from a donor that didn't indicate whether his name may be disclosed\.
 
 
 
@@ -36,11 +32,15 @@ At the time, Adimetrius is the lead, senior, mid and jun in this project\. He wo
 
 ![](/img/VKpayQR.png "VK Pay QR code for adimetrius")
 
-The target desirable amount is $1000/mo, with expected beta\-results late fall of 2020\. We currently have one commitment of 250 euro/month, and two more possible monthly commitments\.
+The target desirable amount is $1000/mo\. 
+
+
 
 In August, we have received a donation of €200, but the donor has not indicated whether his name may be disclosed \- we send thanks to him anyway\.
 
 In September and October each, we have received a €100 one\-time donation\.
+
+In December, we have received €100 from Christian Hörmann, ₽5000 from Ivan Denisov, and ₽2222 from Comdiv on Jan 1\. Deeply grateful to our donors\!
 
 
 
